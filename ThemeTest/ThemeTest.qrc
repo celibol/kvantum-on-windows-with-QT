@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>data/icon.svg</file>
+        <file>data/icon.png</file>
+        <file>data/kvantum.svg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>data/Base Theme.qss</file>
+    </qresource>
+</RCC>
